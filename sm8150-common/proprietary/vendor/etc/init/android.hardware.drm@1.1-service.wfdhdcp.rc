@@ -4,6 +4,5 @@
 #
 
 service wfdhdcphalservice /vendor/bin/wfdhdcphalservice
-    disabled
     class main
     user system
